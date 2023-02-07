@@ -4,6 +4,7 @@ Simulation Constants
 
 
 class SimColor:
+couleur
 """
 Tuples corresponding to RGB colors, it is NEW
 """
